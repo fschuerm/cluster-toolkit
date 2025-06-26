@@ -171,7 +171,7 @@ you meet the prerequisites.
 
 #### AlphaFold 3 Model Weights
 You need to obtain your copy of the AlphaFold 3 model weights. To do so, please complete
-[this form](https://forms.gle/svvpY4u2jsHEwWYS6). Granting and use of the weights is subject to these
+[this form](https://docs.google.com/forms/d/e/1FAIpQLSd5c-dk_6vTIciEk1PZx2hCqHviTE8DakBZfI9JnKoXE6ZocQ/viewform). Granting and use of the weights is subject to these
 [terms of use](https://github.com/google-deepmind/alphafold3/blob/main/WEIGHTS_TERMS_OF_USE.md).
 
 > [!WARNING]
